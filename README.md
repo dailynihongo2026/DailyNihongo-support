@@ -222,7 +222,7 @@ DailyNihongo provides a WidgetKit Lock Screen widget called **Daily Japanese**.
 
 The project has **no external Swift Package dependencies**.
 
-**Current Version:** `1.0.0`
+**Current Version:** `1.2.1`
 
 ---
 
@@ -373,7 +373,7 @@ WidgetKit 잠금 화면 위젯 **오늘의 일본어**를 제공합니다. 직�
 | 위젯 | WidgetKit |
 | 알림 | UserNotifications 로컬 알림 |
 | 버전 관리 | Git, GitHub |
-외부 Swift 패키지 의존성은 없습니다. 현재 버전은 1.0.0입니다.
+외부 Swift 패키지 의존성은 없습니다. 현재 버전은 1.2.1입니다.
 
 ## 프로젝트 구조
 ```
