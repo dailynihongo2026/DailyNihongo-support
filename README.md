@@ -9,6 +9,8 @@ Study Japanese vocabulary, kanji, and grammar from **JLPT N5 to N1** through str
 
 All learning content is bundled with the app as local JSON files. Learning lists, quizzes, Daily Word, and Lock Screen widgets work entirely offline. Learning progress and user preferences are stored locally on the device.
 
+App Download link : https://apps.apple.com/kr/app/dailynihongo/id6831482489
+
 ---
 | Home | Kanji | Vocab
 |:---:|:---:|:---:
