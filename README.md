@@ -10,6 +10,14 @@ Study Japanese vocabulary, kanji, and grammar from **JLPT N5 to N1** through str
 All learning content is bundled with the app as local JSON files. Learning lists, quizzes, Daily Word, and Lock Screen widgets work entirely offline. Learning progress and user preferences are stored locally on the device.
 
 ---
+| Home | Kanji | Vocab
+|:---:|:---:|:---:
+| ![Home](images/home.png) | ![Home](images/kanji.png) | ![Home](images/vocab.png) 
+
+| Grammar | Quiz | Record | Rockscreen |
+|:---:|:---:|:---:|:---:
+| ![Home](images/grammar.png) | ![Home](images/quiz.png) | ![Home](images/record.png) | ![Home](images/rockscreen.png) 
+---
 
 ## Table of Contents
 
