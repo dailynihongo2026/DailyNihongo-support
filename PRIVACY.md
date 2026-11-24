@@ -1,4 +1,41 @@
-# DailyNihongo 개인정보 처리방침
+## DailyNihongo Privacy Policy
+
+**Effective Date: November 11, 2026**
+
+DailyNihongo is an iPhone app for learning Japanese. This policy explains what information the app handles.
+
+### Information We Do Not Collect
+
+DailyNihongo does not require users to create an account and does not send learning data to any server. The app does not use advertising, analytics, or tracking tools.
+
+### Information Stored Only on Your Device
+
+The following information is stored only within the app on your device:
+
+- **Learning Settings:** JLPT level, number of questions, appearance mode, and notification time
+- **Learning Records:** Quiz results, learning progress, and incorrect answers
+- **Favorites:** Saved vocabulary, grammar, and kanji
+
+This information is used only to provide learning features and maintain your settings. It is deleted when you uninstall the app. You can also delete individual categories of data from the app's Data Management screen.
+
+### Notifications
+
+Study reminders are scheduled on your device only if you grant permission. Notification content is not sent to any external server.
+
+### Email Inquiries
+
+An email is sent only when you choose to contact the developer with feedback or suggestions. The email includes the content you write, the app version, and the iOS version. The email address of the account sending the message is also included by your email app as the sender's address.
+
+This information is used solely to respond to your inquiry.
+
+### Contact
+
+For questions about how your personal information is handled, please contact:
+
+**dailynihongo2026@gmail.com**
+
+
+## DailyNihongo 개인정보 처리방침
 
 시행일: 2026년 11월 11일
 
